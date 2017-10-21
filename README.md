@@ -46,3 +46,5 @@ RoundRobinDispatch（轮转调度）、PriorityDispatch（剥夺式动态优先�
 
 13.生产者消费者模型  
 
+14.图像匹配
+使用图像特征(sift\surf\orb\ferns)进行图像匹配（ssd\randsac）
