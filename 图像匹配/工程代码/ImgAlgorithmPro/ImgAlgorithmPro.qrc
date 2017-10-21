@@ -1,0 +1,45 @@
+<RCC>
+  <qresource prefix="ImgAlgorithmPro">
+    <file>Resources/select-hover.png</file>
+    <file>Resources/select-normal-x30y160.png</file>
+    <file>Resources/select-pressed.png</file>
+    <file>Resources/all-hover.png</file>
+    <file>Resources/all-normal-x30y250.png</file>
+    <file>Resources/all-pressed.png</file>
+    <file>Resources/finish-hover.png</file>
+    <file>Resources/finish-normal-x113y250.png</file>
+    <file>Resources/finish-pressed.png</file>
+    <file>Resources/base_plate.png</file>
+    <file>Resources/bottom.png</file>
+    <file>Resources/bottomOfImage.png</file>
+    <file>Resources/downarrow.png</file>
+    <file>Resources/exit.png</file>
+    <file>Resources/exit-mouse.png</file>
+    <file>Resources/hsplite.png</file>
+    <file>Resources/input-hover.png</file>
+    <file>Resources/input-normal-x30y110.png</file>
+    <file>Resources/input-pressed.png</file>
+    <file>Resources/leftarrow.png</file>
+    <file>Resources/maximize.png</file>
+    <file>Resources/maximize-mouse.png</file>
+    <file>Resources/minimize.png</file>
+    <file>Resources/minimize-mouse.png</file>
+    <file>Resources/out-pressed.png</file>
+    <file>Resources/output-hover.png</file>
+    <file>Resources/output-normal-x30y160.png</file>
+    <file>Resources/rightarrow.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/seperation.png</file>
+    <file>Resources/start-hover.png</file>
+    <file>Resources/start-normal-x341y200.png</file>
+    <file>Resources/start-pressed.png</file>
+    <file>Resources/stop-hover.png</file>
+    <file>Resources/stop-normal.png</file>
+    <file>Resources/stop-pressed.png</file>
+    <file>Resources/break-hover.png</file>
+    <file>Resources/break-normal-x113y250.png</file>
+    <file>Resources/break-pressed.png</file>
+    <file>Resources/uparrow.png</file>
+    <file>Resources/background.png</file>
+  </qresource>
+</RCC>
